@@ -25,7 +25,7 @@ const index = () => {
     <Box m="1.5rem 2.5rem">
       <FlexBetween>
         <Header
-          title="Welcome to ECOMVISION"
+          title="Welcome to EcomMate"
           subtitle="You are logged in as Admin"
         />
       </FlexBetween>

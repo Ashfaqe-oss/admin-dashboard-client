@@ -9,8 +9,8 @@ export default defineConfig({
         injectRegister: 'auto',
         includeAssets: ['favicon-96x96.png', 'android-icon-192x192.png'],
         manifest: {
-            name: 'Dashboard',
-            short_name: 'Dashboard',
+            name: 'EcomMate',
+            short_name: 'EcomMate',
             description: 'Admin Dashboard for Sales Transactions',
             theme_color: '#000',
             icons: [{

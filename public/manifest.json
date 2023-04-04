@@ -1,6 +1,6 @@
 {
-    "name": "Admin Dashboard",
-    "short_name": "Dashboard",
+    "name": "EcomMate",
+    "short_name": "EcomMate",
     "icons": [{
             "src": "\/android-chrome-192x192.png",
             "sizes": "192x192",
