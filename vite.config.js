@@ -27,8 +27,4 @@ export default defineConfig({
             // start_url: '/'
         }
     })],
-    define: {
-        global: "globalThis",
-        "process.env": {},
-    },
 });
